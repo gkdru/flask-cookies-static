@@ -1,0 +1,8 @@
+body {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+}
+input {
+  color: aqua;
+}
